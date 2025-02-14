@@ -1,4 +1,3 @@
-# README.md
 
 ## Hi There, It's Jyoti Gupta
 Software Engineer
